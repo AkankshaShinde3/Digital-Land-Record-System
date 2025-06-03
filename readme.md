@@ -8,15 +8,6 @@ The Digital Land Record System, built with **React** and **Vite**. It provides a
 - **Transfer Ownership:** Landowners can transfer ownership of their land to another address.
 - **Web3 Integration:** Connects to MetaMask for blockchain transactions.
 
-## Project Structure
-
-- `src/`
-  - `App.jsx` – Main React component.
-  - `components/` – UI components (RegisterLand, TransferOwnership).
-  - `web3.js` – Web3 and contract setup.
-- `public/` – Static assets.
-- `index.html` – Main HTML file.
-
 ## Getting Started
 
 1. **Install dependencies:**

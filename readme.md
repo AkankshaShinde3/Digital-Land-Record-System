@@ -1,4 +1,4 @@
-# Digital Land Record System – Frontend
+# Digital Land Record System
 
 The Digital Land Record System, built with **React** and **Vite**. It provides a user interface for interacting with the Land Registry smart contract.
 
